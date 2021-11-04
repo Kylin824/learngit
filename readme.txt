@@ -2,3 +2,6 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 add one row
+test change old 1
+test change 2
+add change 3
