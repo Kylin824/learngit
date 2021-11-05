@@ -3,8 +3,10 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 add one row
 test change old 1
-test change 2
+bug fix in issue-101
 add change 3
 add row in dev branch
 add row in test branch
 add row in test branch 2
+add row in issue-101
+cancel add issue-101 again
