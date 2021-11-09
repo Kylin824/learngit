@@ -16,3 +16,5 @@ add row in test branch 3 and add
 add row in test for reset
 
 master 1 row
+
+master 2 row
