@@ -3,3 +3,5 @@ create reset
 wrong commit
 
 checkout
+
+checkout 2
