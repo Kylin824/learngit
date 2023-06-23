@@ -5,3 +5,5 @@ wrong commit
 checkout
 
 checkout 2
+
+change with amend
